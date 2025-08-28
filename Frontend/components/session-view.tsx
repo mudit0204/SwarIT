@@ -387,7 +387,7 @@ export const SessionView = ({
               )}></div>
             </div>
             <div>
-              <h2 className="text-white font-semibold">AI Assistant</h2>
+              <h2 className="text-white font-bold drop-shadow-[0_0_10px_rgba(255,255,255,0.8)]">SWARA</h2>
               <p className="text-gray-400 text-sm capitalize">
                 {agentState === 'listening' && 'Listening...'}
                 {agentState === 'thinking' && 'Processing...'}
@@ -403,7 +403,7 @@ export const SessionView = ({
           {/* Call Timer/Status */}
           <div className="text-right">
             <div className="text-white text-sm font-mono">
-              {sessionStarted && "00:00:00"}
+              {/* {sessionStarted && "00:00:00"} */}
             </div>
             <div className="text-green-400 text-xs flex items-center gap-1">
               <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>

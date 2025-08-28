@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-08-28T15:07:14.219Z",
+  "analysisType": "summary",
+  "conversationLength": 5,
+  "userMessages": 0,
+  "agentMessages": 5,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The agent initiated a conversation to offer registration to the user.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "653fb481-a075-4fa7-a886-d525d62d5680",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-28T15:07:11.024Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "653fb481-a075-4fa7-a886-d525d62d5680",
+      "sender": "agent",
+      "message": "Would you",
+      "timestamp": "2025-08-28T15:07:11.024Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "653fb481-a075-4fa7-a886-d525d62d5680",
+      "sender": "agent",
+      "message": "Would you like",
+      "timestamp": "2025-08-28T15:07:11.024Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "653fb481-a075-4fa7-a886-d525d62d5680",
+      "sender": "agent",
+      "message": "Would you like to",
+      "timestamp": "2025-08-28T15:07:11.024Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "653fb481-a075-4fa7-a886-d525d62d5680",
+      "sender": "agent",
+      "message": "Would you like to register",
+      "timestamp": "2025-08-28T15:07:11.024Z",
+      "agentState": "speaking"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-28T15:07:14.220Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}
