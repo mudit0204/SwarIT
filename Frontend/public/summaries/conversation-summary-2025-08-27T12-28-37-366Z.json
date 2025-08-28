@@ -1,0 +1,273 @@
+{
+  "timestamp": "2025-08-27T12:28:37.366Z",
+  "analysisType": "summary",
+  "conversationLength": 37,
+  "userMessages": 4,
+  "agentMessages": 33,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The agent is attempting to determine if the user wants to register a new complaint or track an existing one, but is having trouble understanding the user's response.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "03383314-b63e-4695-b95b-81e030b8ec1f",
+      "sender": "user",
+      "message": "Hello",
+      "timestamp": "2025-08-27T12:24:43.540Z"
+    },
+    {
+      "id": "6e4a3a9f-1245-488c-b0f5-dba19171096e",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T12:24:43.552Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like to",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like to register",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like to register a",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like to register a new",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a11a9373-8130-4012-acfc-b8f43631b7ea",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an existing one?\n",
+      "timestamp": "2025-08-27T12:24:44.360Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "6b4a12dc-2a27-4755-bacd-72f47b34ce34",
+      "sender": "user",
+      "message": "कान",
+      "timestamp": "2025-08-27T12:24:59.097Z"
+    },
+    {
+      "id": "6b4a12dc-2a27-4755-bacd-72f47b34ce34",
+      "sender": "user",
+      "message": "कान है",
+      "timestamp": "2025-08-27T12:24:59.097Z"
+    },
+    {
+      "id": "6b4a12dc-2a27-4755-bacd-72f47b34ce34",
+      "sender": "user",
+      "message": "कान है भूटाती",
+      "timestamp": "2025-08-27T12:24:59.097Z"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize,",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that.",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like to",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like to register",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like to register a",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like to register a new",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like to register a new complaint",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like to register a new complaint or",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like to register a new complaint or track",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5367e5b-2d62-4015-b9c8-700407051e2d",
+      "sender": "agent",
+      "message": "I apologize, I didn't quite catch that. Could you please repeat whether you'd like to register a new complaint or track an existing one?\n",
+      "timestamp": "2025-08-27T12:25:00.356Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T12:28:37.366Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

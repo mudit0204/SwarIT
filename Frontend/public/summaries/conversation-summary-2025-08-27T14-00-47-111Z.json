@@ -1,0 +1,370 @@
+{
+  "timestamp": "2025-08-27T14:00:47.111Z",
+  "analysisType": "summary",
+  "conversationLength": 53,
+  "userMessages": 19,
+  "agentMessages": 34,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The user wants to register a new complaint about electricity issues.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would you",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would you like",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would you like to",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would you like to register",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would you like to register a",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would you like to register a new",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be9068c7-c84d-4c0f-8fe8-8004fcff6ac3",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an existing one?\n",
+      "timestamp": "2025-08-27T14:00:21.277Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "9da7e913-74d5-40af-b30e-b123f7eee648",
+      "sender": "user",
+      "message": "हेलो स्वरा",
+      "timestamp": "2025-08-27T14:00:26.323Z"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते!",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना चाहेंगे?",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना चाहेंगे? जल",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना चाहेंगे? जल संकट,",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना चाहेंगे? जल संकट, कचरा,",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना चाहेंगे? जल संकट, कचरा, बिजली",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना चाहेंगे? जल संकट, कचरा, बिजली या",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना चाहेंगे? जल संकट, कचरा, बिजली या सड़क?",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "39644236-3b8c-4a08-82be-96efdfeefc4c",
+      "sender": "agent",
+      "message": "नमस्ते! आप किस प्रकार की शिकायत दर्ज करना चाहेंगे? जल संकट, कचरा, बिजली या सड़क?\n",
+      "timestamp": "2025-08-27T14:00:27.525Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्व",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वु",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू र",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजि",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर माय",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर माय कं",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर माय कंप्",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर माय कंप्ले",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर माय कंप्लेन",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर माय कंप्लेन ऑन",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर माय कंप्लेन ऑन इले",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "9e08ce21-d063-4b87-b067-4d0986bda3ea",
+      "sender": "user",
+      "message": "स्वर आई वुड लाइक टू रजिस्टर माय कंप्लेन ऑन इलेक्ट्रिसिटी",
+      "timestamp": "2025-08-27T14:00:36.776Z"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली के",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली के बारे",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली के बारे में",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली के बारे में आपकी",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली के बारे में आपकी शिकायत",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली के बारे में आपकी शिकायत क्या",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली के बारे में आपकी शिकायत क्या है?",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a3b6354f-17ac-4103-be58-54ed6f100072",
+      "sender": "agent",
+      "message": "बिजली के बारे में आपकी शिकायत क्या है? कृपया विस्तार से बताएं।\n",
+      "timestamp": "2025-08-27T14:00:40.958Z",
+      "agentState": "speaking"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T14:00:47.111Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

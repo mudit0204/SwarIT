@@ -1,0 +1,152 @@
+{
+  "timestamp": "2025-08-28T06:52:57.911Z",
+  "analysisType": "summary",
+  "conversationLength": 20,
+  "userMessages": 6,
+  "agentMessages": 14,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The user seems to be expressing frustration and refusing to file or track a complaint. The agent is attempting to gather location information.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "1cef5049-1793-47a9-8d4b-fa8b7725c228",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-28T06:52:27.368Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "87e80992-a051-4bcb-afa3-56a2392a0f1b",
+      "sender": "user",
+      "message": "डेवलपर",
+      "timestamp": "2025-08-28T06:52:29.745Z"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत दर्ज",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत दर्ज करना",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत दर्ज करना चाहेंगे",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत दर्ज करना चाहेंगे या",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत दर्ज करना चाहेंगे या ट्रैक",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत दर्ज करना चाहेंगे या ट्रैक करना",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत दर्ज करना चाहेंगे या ट्रैक करना चाहेंगे?",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2eaf986f-0901-470d-aa43-7c2e2954ae5b",
+      "sender": "agent",
+      "message": "क्या आप शिकायत दर्ज करना चाहेंगे या ट्रैक करना चाहेंगे?\n",
+      "timestamp": "2025-08-28T06:52:30.597Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "6efec52a-68e4-4456-b9dc-73e813fbb329",
+      "sender": "user",
+      "message": "नहीं",
+      "timestamp": "2025-08-28T06:52:34.936Z"
+    },
+    {
+      "id": "6efec52a-68e4-4456-b9dc-73e813fbb329",
+      "sender": "user",
+      "message": "नहीं चूतिया है डेंगे",
+      "timestamp": "2025-08-28T06:52:34.936Z"
+    },
+    {
+      "id": "79ef8bd3-46b7-43c0-9d8b-2140a452ed4c",
+      "sender": "user",
+      "message": "देंगे",
+      "timestamp": "2025-08-28T06:52:39.538Z"
+    },
+    {
+      "id": "52940235-9a52-4a4f-856d-3c43ad23e00e",
+      "sender": "agent",
+      "message": "कृपया अपनी",
+      "timestamp": "2025-08-28T06:52:44.199Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "9837b4ce-29a5-47f8-888f-808eda8f4e23",
+      "sender": "user",
+      "message": "เก",
+      "timestamp": "2025-08-28T06:52:46.515Z"
+    },
+    {
+      "id": "a8a4a2b6-d9d4-4a1c-8a38-c23692522dc6",
+      "sender": "user",
+      "message": "ఆ ఆ ఆ ఆ",
+      "timestamp": "2025-08-28T06:52:49.902Z"
+    },
+    {
+      "id": "e645a8c1-1040-42a9-80ce-9279d698e14a",
+      "sender": "agent",
+      "message": "कृपया अपने इलाके या इलाके का नाम बताएं।",
+      "timestamp": "2025-08-28T06:52:52.890Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-28T06:52:57.911Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

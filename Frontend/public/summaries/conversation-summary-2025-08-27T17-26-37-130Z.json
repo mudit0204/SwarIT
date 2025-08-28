@@ -1,0 +1,206 @@
+{
+  "timestamp": "2025-08-27T17:26:37.130Z",
+  "analysisType": "summary",
+  "conversationLength": 27,
+  "userMessages": 1,
+  "agentMessages": 26,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"Swara, a municipal assistant, is offering help to the user, asking if they want to file a complaint or track an existing one.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "0a340ae3-ec12-4f89-a09d-dba5da906dde",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T17:26:23.194Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "f7124694-4f16-402d-a784-603d905649e0",
+      "sender": "user",
+      "message": "हेलो स्लाइड।",
+      "timestamp": "2025-08-27T17:26:23.306Z"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi,",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara,",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant.",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today?",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत दर्ज",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत दर्ज करना",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत दर्ज करना चाहेंगे",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत दर्ज करना चाहेंगे या",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत दर्ज करना चाहेंगे या उसे",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत दर्ज करना चाहेंगे या उसे ट्रैक",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत दर्ज करना चाहेंगे या उसे ट्रैक करना",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "8a814985-2b7a-4ad7-9e46-f646ae66d0f8",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant. How may I help you today? क्या आप शिकायत दर्ज करना चाहेंगे या उसे ट्रैक करना चाहेंगे?\n",
+      "timestamp": "2025-08-27T17:26:24.241Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T17:26:37.130Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

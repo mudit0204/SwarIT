@@ -1,0 +1,1086 @@
+{
+  "timestamp": "2025-08-25T05:04:45.029Z",
+  "analysisType": "summary",
+  "conversationLength": 165,
+  "userMessages": 87,
+  "agentMessages": 78,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"A user, Nikunj Maltare, reported a power outage in his locality near Dussehra Maidan, Sudama Nagar. The municipal assistant registered the complaint and assured that a team will address it soon.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": \"7974729045\",\n    \"address\": \"Near Dussehra Maidan, Sudama Nagar\",\n    \"location\": \"Sudama Nagar\"\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi,",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi, my",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi, my name",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi, my name is",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi, my name is Swara,",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant,",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "e996531e-acba-4065-9405-a9cb321fd238",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant, how may I help you today?\n",
+      "timestamp": "2025-08-25T05:03:26.099Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "5db12144-728a-4a9d-b9bc-69656b04c79e",
+      "sender": "user",
+      "message": "हेलो स्वरा",
+      "timestamp": "2025-08-25T05:03:31.815Z"
+    },
+    {
+      "id": "8d6c0b00-84b0-4bbd-9e75-e69758e52ff0",
+      "sender": "agent",
+      "message": "How",
+      "timestamp": "2025-08-25T05:03:32.466Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8d6c0b00-84b0-4bbd-9e75-e69758e52ff0",
+      "sender": "agent",
+      "message": "How can",
+      "timestamp": "2025-08-25T05:03:32.466Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8d6c0b00-84b0-4bbd-9e75-e69758e52ff0",
+      "sender": "agent",
+      "message": "How can I",
+      "timestamp": "2025-08-25T05:03:32.466Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8d6c0b00-84b0-4bbd-9e75-e69758e52ff0",
+      "sender": "agent",
+      "message": "How can I help",
+      "timestamp": "2025-08-25T05:03:32.466Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8d6c0b00-84b0-4bbd-9e75-e69758e52ff0",
+      "sender": "agent",
+      "message": "How can I help you today?\n",
+      "timestamp": "2025-08-25T05:03:32.466Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "ac",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am fa",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem ne",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my lo",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my local",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality which",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality which is",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality which is rela",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality which is related",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality which is related to",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality which is related to ele",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality which is related to electric",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "27d16b3a-9122-4aaa-b167-dbd448d09dee",
+      "sender": "user",
+      "message": "actually I am facing problem near my locality which is related to electricity department.",
+      "timestamp": "2025-08-25T05:03:36.159Z"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe the",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe the issue",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe the issue you",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe the issue you are",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe the issue you are facing",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe the issue you are facing with",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe the issue you are facing with the",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6709850e-072c-426b-8133-45473b04fd03",
+      "sender": "agent",
+      "message": "Could you please describe the issue you are facing with the electricity department?\n",
+      "timestamp": "2025-08-25T05:03:41.467Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "sin",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two day",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my lo",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my loca",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my locali",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my localities",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my localities and",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my localities and nei",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my localities and neighbor",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my localities and neighborhood",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "d40bcb5a-e476-40c2-a7b8-094bc633107e",
+      "sender": "user",
+      "message": "since two days there is no light so my localities and neighborhood are facing problem.",
+      "timestamp": "2025-08-25T05:03:47.291Z"
+    },
+    {
+      "id": "27bf9312-a0c3-4a0e-b8c9-2cc13013b5b6",
+      "sender": "agent",
+      "message": "Which",
+      "timestamp": "2025-08-25T05:03:53.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "27bf9312-a0c3-4a0e-b8c9-2cc13013b5b6",
+      "sender": "agent",
+      "message": "Which area",
+      "timestamp": "2025-08-25T05:03:53.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "27bf9312-a0c3-4a0e-b8c9-2cc13013b5b6",
+      "sender": "agent",
+      "message": "Which area is",
+      "timestamp": "2025-08-25T05:03:53.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "27bf9312-a0c3-4a0e-b8c9-2cc13013b5b6",
+      "sender": "agent",
+      "message": "Which area is affected",
+      "timestamp": "2025-08-25T05:03:53.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "27bf9312-a0c3-4a0e-b8c9-2cc13013b5b6",
+      "sender": "agent",
+      "message": "Which area is affected by",
+      "timestamp": "2025-08-25T05:03:53.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "27bf9312-a0c3-4a0e-b8c9-2cc13013b5b6",
+      "sender": "agent",
+      "message": "Which area is affected by this",
+      "timestamp": "2025-08-25T05:03:53.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "27bf9312-a0c3-4a0e-b8c9-2cc13013b5b6",
+      "sender": "agent",
+      "message": "Which area is affected by this power",
+      "timestamp": "2025-08-25T05:03:53.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "27bf9312-a0c3-4a0e-b8c9-2cc13013b5b6",
+      "sender": "agent",
+      "message": "Which area is affected by this power outage?\n",
+      "timestamp": "2025-08-25T05:03:53.014Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "731edbca-e656-4da4-bd56-16376d373e43",
+      "sender": "user",
+      "message": "नि",
+      "timestamp": "2025-08-25T05:03:58.125Z"
+    },
+    {
+      "id": "731edbca-e656-4da4-bd56-16376d373e43",
+      "sender": "user",
+      "message": "नियर",
+      "timestamp": "2025-08-25T05:03:58.125Z"
+    },
+    {
+      "id": "731edbca-e656-4da4-bd56-16376d373e43",
+      "sender": "user",
+      "message": "नियर द",
+      "timestamp": "2025-08-25T05:03:58.125Z"
+    },
+    {
+      "id": "731edbca-e656-4da4-bd56-16376d373e43",
+      "sender": "user",
+      "message": "नियर दश",
+      "timestamp": "2025-08-25T05:03:58.125Z"
+    },
+    {
+      "id": "731edbca-e656-4da4-bd56-16376d373e43",
+      "sender": "user",
+      "message": "नियर दशरा",
+      "timestamp": "2025-08-25T05:03:58.125Z"
+    },
+    {
+      "id": "731edbca-e656-4da4-bd56-16376d373e43",
+      "sender": "user",
+      "message": "नियर दशरा मैदान सुदामा नगर",
+      "timestamp": "2025-08-25T05:03:58.125Z"
+    },
+    {
+      "id": "969bfb15-d034-411e-8d1c-de9d852b4b3c",
+      "sender": "agent",
+      "message": "Could you please provide",
+      "timestamp": "2025-08-25T05:03:59.717Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "969bfb15-d034-411e-8d1c-de9d852b4b3c",
+      "sender": "agent",
+      "message": "Could you please provide your",
+      "timestamp": "2025-08-25T05:03:59.717Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "969bfb15-d034-411e-8d1c-de9d852b4b3c",
+      "sender": "agent",
+      "message": "Could you please provide your name",
+      "timestamp": "2025-08-25T05:03:59.717Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "969bfb15-d034-411e-8d1c-de9d852b4b3c",
+      "sender": "agent",
+      "message": "Could you please provide your name and",
+      "timestamp": "2025-08-25T05:03:59.717Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "969bfb15-d034-411e-8d1c-de9d852b4b3c",
+      "sender": "agent",
+      "message": "Could you please provide your name and contact",
+      "timestamp": "2025-08-25T05:03:59.717Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "969bfb15-d034-411e-8d1c-de9d852b4b3c",
+      "sender": "agent",
+      "message": "Could you please provide your name and contact number?\n",
+      "timestamp": "2025-08-25T05:03:59.717Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Ni",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikun",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Mal",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Malta",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my con",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 7",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 79",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 797",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 7974",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 79747",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 797472",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 7974729",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "b6a9c9f1-4098-481d-8d53-54dd356d73ed",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 7974729045.",
+      "timestamp": "2025-08-25T05:04:04.523Z"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay,",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr.",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare,",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan,",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar.",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address it",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address it soon.",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address it soon. Your",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address it soon. Your contact",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address it soon. Your contact number",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address it soon. Your contact number is",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address it soon. Your contact number is 7974729045.",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "183a5443-0c0c-4985-a911-da512f51de52",
+      "sender": "agent",
+      "message": "Okay, Mr. Nikunj Maltare, we have registered your complaint about the power outage near Dussehra Maidan, Sudama Nagar. Our team will address it soon. Your contact number is 7974729045.\n",
+      "timestamp": "2025-08-25T05:04:10.145Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "906cc71a-60b9-46db-badc-2886d71f080b",
+      "sender": "user",
+      "message": ".",
+      "timestamp": "2025-08-25T05:04:25.301Z"
+    },
+    {
+      "id": "a5512a83-1606-486c-a05f-5c862d6f24ef",
+      "sender": "agent",
+      "message": "Is",
+      "timestamp": "2025-08-25T05:04:26.170Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5512a83-1606-486c-a05f-5c862d6f24ef",
+      "sender": "agent",
+      "message": "Is there",
+      "timestamp": "2025-08-25T05:04:26.170Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5512a83-1606-486c-a05f-5c862d6f24ef",
+      "sender": "agent",
+      "message": "Is there anything",
+      "timestamp": "2025-08-25T05:04:26.170Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5512a83-1606-486c-a05f-5c862d6f24ef",
+      "sender": "agent",
+      "message": "Is there anything else",
+      "timestamp": "2025-08-25T05:04:26.170Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5512a83-1606-486c-a05f-5c862d6f24ef",
+      "sender": "agent",
+      "message": "Is there anything else I",
+      "timestamp": "2025-08-25T05:04:26.170Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5512a83-1606-486c-a05f-5c862d6f24ef",
+      "sender": "agent",
+      "message": "Is there anything else I can",
+      "timestamp": "2025-08-25T05:04:26.170Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5512a83-1606-486c-a05f-5c862d6f24ef",
+      "sender": "agent",
+      "message": "Is there anything else I can help",
+      "timestamp": "2025-08-25T05:04:26.170Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a5512a83-1606-486c-a05f-5c862d6f24ef",
+      "sender": "agent",
+      "message": "Is there anything else I can help you with today?\n",
+      "timestamp": "2025-08-25T05:04:26.170Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बि",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लि",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपि",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड ह",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड हटाया",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड हटाया था",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड हटाया था उस",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड हटाया था उसके",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड हटाया था उसके इसमें",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड हटाया था उसके इसमें बहुत",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड हटाया था उसके इसमें बहुत सा",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    },
+    {
+      "id": "c568f798-1906-43f8-a0ea-8ac080aaf5d2",
+      "sender": "user",
+      "message": "बिल्ट विद लिपिड हटाया था उसके इसमें बहुत सा बंद कर और रिसर्च कर",
+      "timestamp": "2025-08-25T05:04:37.699Z"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-25T05:04:45.029Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "timestamp": "2025-08-25T11:31:28.777Z",
+  "analysisType": "summary",
+  "conversationLength": 10,
+  "userMessages": 1,
+  "agentMessages": 9,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The conversation appears to be starting with a greeting from a municipal assistant named Swara, possibly to address a user's video-related issue.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "0738b9b8-f9f9-4c91-a0fd-0ac63be1ce0a",
+      "sender": "user",
+      "message": "वीडियो अभी तक",
+      "timestamp": "2025-08-25T11:31:20.518Z"
+    },
+    {
+      "id": "aace233a-ceb6-4585-af86-c8b79719d2e7",
+      "sender": "agent",
+      "message": "Hi,",
+      "timestamp": "2025-08-25T11:31:20.548Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "140a5a6a-153c-402e-8a28-77c322d391db",
+      "sender": "agent",
+      "message": "नमस्ते!",
+      "timestamp": "2025-08-25T11:31:21.600Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "140a5a6a-153c-402e-8a28-77c322d391db",
+      "sender": "agent",
+      "message": "नमस्ते! मैं",
+      "timestamp": "2025-08-25T11:31:21.600Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "140a5a6a-153c-402e-8a28-77c322d391db",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा,",
+      "timestamp": "2025-08-25T11:31:21.600Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "140a5a6a-153c-402e-8a28-77c322d391db",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी",
+      "timestamp": "2025-08-25T11:31:21.600Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "140a5a6a-153c-402e-8a28-77c322d391db",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका",
+      "timestamp": "2025-08-25T11:31:21.600Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "140a5a6a-153c-402e-8a28-77c322d391db",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक,",
+      "timestamp": "2025-08-25T11:31:21.600Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "140a5a6a-153c-402e-8a28-77c322d391db",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज",
+      "timestamp": "2025-08-25T11:31:21.600Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "140a5a6a-153c-402e-8a28-77c322d391db",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं",
+      "timestamp": "2025-08-25T11:31:21.600Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-25T11:31:28.777Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

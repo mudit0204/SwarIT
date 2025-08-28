@@ -1,0 +1,102 @@
+{
+  "timestamp": "2025-08-27T17:18:44.622Z",
+  "analysisType": "summary",
+  "conversationLength": 12,
+  "userMessages": 0,
+  "agentMessages": 12,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The agent is asking the user if they would like to register a new complaint or track an existing one.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to register",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to register a",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to register a new",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an existing",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an existing one?",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f403c460-d0ed-4652-a11b-5a96626f8533",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an existing one?\n",
+      "timestamp": "2025-08-27T17:18:35.690Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T17:18:44.622Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

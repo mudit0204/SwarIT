@@ -1,0 +1,232 @@
+{
+  "timestamp": "2025-08-25T02:51:46.615Z",
+  "analysisType": "summary",
+  "conversationLength": 32,
+  "userMessages": 10,
+  "agentMessages": 22,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"Swara, a municipal assistant, introduces herself and asks if the user wants to file a complaint. The user initially declines but then says goodbye in multiple languages.\"\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "7841b0c2-29b3-478e-88c2-59376c6ccbd5",
+      "sender": "agent",
+      "message": "Hi,",
+      "timestamp": "2025-08-25T02:51:17.514Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते!",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं,",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक।",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या आप",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या आप कोई",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या आप कोई शिकायत",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या आप कोई शिकायत दर्ज",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या आप कोई शिकायत दर्ज कराना",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या आप कोई शिकायत दर्ज कराना चाहते",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या आप कोई शिकायत दर्ज कराना चाहते हैं?",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "86f13d3a-ee12-442e-a693-ca8e1f9ac2a6",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा हूं, आपकी नगरपालिका सहायक। क्या आप कोई शिकायत दर्ज कराना चाहते हैं?\n",
+      "timestamp": "2025-08-25T02:51:18.721Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "4fbd7428-6277-477c-9ae2-b4d0aef916aa",
+      "sender": "user",
+      "message": "को",
+      "timestamp": "2025-08-25T02:51:30.019Z"
+    },
+    {
+      "id": "4fbd7428-6277-477c-9ae2-b4d0aef916aa",
+      "sender": "user",
+      "message": "को तुम",
+      "timestamp": "2025-08-25T02:51:30.019Z"
+    },
+    {
+      "id": "4fbd7428-6277-477c-9ae2-b4d0aef916aa",
+      "sender": "user",
+      "message": "को तुम मिक्स",
+      "timestamp": "2025-08-25T02:51:30.019Z"
+    },
+    {
+      "id": "4fbd7428-6277-477c-9ae2-b4d0aef916aa",
+      "sender": "user",
+      "message": "को तुम मिक्स करो",
+      "timestamp": "2025-08-25T02:51:30.019Z"
+    },
+    {
+      "id": "4fbd7428-6277-477c-9ae2-b4d0aef916aa",
+      "sender": "user",
+      "message": "को तुम मिक्स करो नहीं",
+      "timestamp": "2025-08-25T02:51:30.019Z"
+    },
+    {
+      "id": "4fbd7428-6277-477c-9ae2-b4d0aef916aa",
+      "sender": "user",
+      "message": "को तुम मिक्स करो नहीं अभी के लिए नहीं आप जाओ",
+      "timestamp": "2025-08-25T02:51:30.019Z"
+    },
+    {
+      "id": "b690d89d-99fd-4e3e-b65d-6f67c9782387",
+      "sender": "agent",
+      "message": "ठीक",
+      "timestamp": "2025-08-25T02:51:31.618Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "8e19c71c-789f-4a76-8db7-c4f69ef2811f",
+      "sender": "user",
+      "message": "เดี๋ยว บ๊าย บาย",
+      "timestamp": "2025-08-25T02:51:34.643Z"
+    },
+    {
+      "id": "c60112c3-70cf-44d2-bcb8-5112df52d3a0",
+      "sender": "agent",
+      "message": "अलविदा!",
+      "timestamp": "2025-08-25T02:51:35.669Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "f3cfa26c-8c74-461d-a083-5a5622d733fa",
+      "sender": "user",
+      "message": "भेजो तुमको।",
+      "timestamp": "2025-08-25T02:51:36.557Z"
+    },
+    {
+      "id": "5492a53c-803d-4687-9def-17b099f5679e",
+      "sender": "agent",
+      "message": "मुजे",
+      "timestamp": "2025-08-25T02:51:37.097Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "965b69f4-0f4b-4492-8cb2-28715fbe4a49",
+      "sender": "user",
+      "message": "अलिबिता खुदा सरस्वती",
+      "timestamp": "2025-08-25T02:51:38.284Z"
+    },
+    {
+      "id": "060d7389-fca4-46ad-a517-9d646879fa70",
+      "sender": "agent",
+      "message": "धन्यवाद, आपका",
+      "timestamp": "2025-08-25T02:51:39.145Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "93b4a982-84ce-42be-b9e4-654bcb079020",
+      "sender": "user",
+      "message": "<noise> సలే <noise>",
+      "timestamp": "2025-08-25T02:51:39.769Z"
+    },
+    {
+      "id": "bfb4a731-a2b9-4b29-a37b-66739adb5e11",
+      "sender": "agent",
+      "message": "नमस्कार",
+      "timestamp": "2025-08-25T02:51:40.987Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-25T02:51:46.616Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

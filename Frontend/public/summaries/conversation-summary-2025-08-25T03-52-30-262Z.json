@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-08-25T03:52:30.262Z",
+  "analysisType": "summary",
+  "conversationLength": 14,
+  "userMessages": 0,
+  "agentMessages": 14,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The agent is offering assistance with registering a new complaint or tracking an existing one.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today?",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today? Would",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today? Would you",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today? Would you like",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today? Would you like to",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today? Would you like to register",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today? Would you like to register a",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today? Would you like to register a new",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c6e740e8-fcfb-4e0b-b4df-1e50940d581f",
+      "sender": "agent",
+      "message": "How may I help you today? Would you like to register a new complaint or track an existing one?\n",
+      "timestamp": "2025-08-25T03:46:18.735Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-25T03:52:30.262Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

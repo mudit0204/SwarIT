@@ -1,0 +1,494 @@
+{
+  "timestamp": "2025-08-24T21:03:48.608Z",
+  "analysisType": "summary",
+  "conversationLength": 77,
+  "userMessages": 63,
+  "agentMessages": 14,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The AI assistant, Swara, introduced itself as a municipal assistant and asked how it could help. The user, Nikunj Maltare, after a lengthy and iterative typing process, reported a water leakage problem near Sudama Nagar in their locality. They provided their name and contact number. The AI acknowledged the information and confirmed that a complaint has been registered with their details: name, location (Sudama Nagar), problem (water leakage), and contact number.\",\n  \"main_topics\": [\n    \"Municipal services\",\n    \"Water leakage complaint\",\n    \"Location (Sudama Nagar)\",\n    \"Contact information\"\n  ],\n  \"user_intent\": \"Report a water leakage problem in their locality and provide their contact information for follow-up.\",\n  \"ai_helpfulness\": \"The AI seems to have understood the user's request and registered the complaint. The AI also confirmed the user's details, indicating a successful extraction of key information. However, the conversational aspect before the complaint was less than perfect. There was no interaction with the user during the extended process of data input. It would have been better to acknowledge and offer possible means to aid the typing process.\",\n  \"conversation_outcome\": \"The AI successfully registered the user's water leakage complaint with their provided details.\",\n  \"duration_estimate\": \"Medium (due to the lengthy and repetitive typing process of the user)\"\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi,",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my name",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my name is",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my name is Swara,",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant,",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant, how",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "855b9391-f52b-492f-b7e7-09268f06531b",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant, how may I help you today?\n",
+      "timestamp": "2025-08-24T21:03:08.975Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हे",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्व",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दि",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकु",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मल",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलता",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फे",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वा",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉ",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नि",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सु",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदा",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोक",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकै",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलि",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वा",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉ",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रि",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिले",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड टू",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड टू वा",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड टू वाटर",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड टू वाटर लि",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड टू वाटर लिकेज",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड टू वाटर लिकेज एंड",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड टू वाटर लिकेज एंड माय",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7ba00f08-d8a3-4827-bc3d-792e4c223116",
+      "sender": "user",
+      "message": "हेलो स्वरा माय नेम इज दिकुज मलतारे एंड आई एम फेसिंग वाटर प्रॉब्लम नियर सुदामा नगर इन माय लोकैलिटी द वाटर प्रॉब्लम इज रिलेटेड टू वाटर लिकेज एंड माय नेम इज निकुंच मतलब",
+      "timestamp": "2025-08-24T21:03:14.268Z"
+    },
+    {
+      "id": "7dc40e91-1aa9-4f98-b931-b613e2991c11",
+      "sender": "agent",
+      "message": "Thank",
+      "timestamp": "2025-08-24T21:03:24.419Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "7dc40e91-1aa9-4f98-b931-b613e2991c11",
+      "sender": "agent",
+      "message": "Thank you,",
+      "timestamp": "2025-08-24T21:03:24.419Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my con",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact number",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact number is",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact number is 7",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact number is 79",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact number is 797",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact number is 7974",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact number is 79747",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "4dc869e7-e862-4dc1-aaa1-e6e0744e829f",
+      "sender": "user",
+      "message": "and my contact number is 7974729045.",
+      "timestamp": "2025-08-24T21:03:25.170Z"
+    },
+    {
+      "id": "0cea6cf6-f9ae-4bab-b883-479e5c890b4c",
+      "sender": "agent",
+      "message": "आपका नाम निकुंज मलतारे, क्षेत्र सुदामा नगर के पास, पानी की समस्या पानी का रिसाव, और संपर्क नंबर 7974729045 के साथ शिकायत दर्ज कर",
+      "timestamp": "2025-08-24T21:03:39.830Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "0cea6cf6-f9ae-4bab-b883-479e5c890b4c",
+      "sender": "agent",
+      "message": "आपका नाम निकुंज मलतारे, क्षेत्र सुदामा नगर के पास, पानी की समस्या पानी का रिसाव, और संपर्क नंबर 7974729045 के साथ शिकायत दर्ज कर दी गई है।",
+      "timestamp": "2025-08-24T21:03:39.830Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-24T21:03:48.608Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

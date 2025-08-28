@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-08-27T13:58:47.918Z",
+  "analysisType": "summary",
+  "conversationLength": 2,
+  "userMessages": 1,
+  "agentMessages": 1,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"Incomplete conversation; user only replied with \\\"సర్\\\".\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "b43ccb01-f4c2-4e97-87ca-65a698fd92c7",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T13:58:39.745Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "8fa4e55b-03d0-4684-941d-161b07fd1628",
+      "sender": "user",
+      "message": "సర్",
+      "timestamp": "2025-08-27T13:58:45.956Z"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T13:58:47.918Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

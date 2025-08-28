@@ -1,0 +1,688 @@
+{
+  "timestamp": "2025-08-24T21:54:44.601Z",
+  "analysisType": "summary",
+  "conversationLength": 102,
+  "userMessages": 44,
+  "agentMessages": 58,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"User reports water shortage in Sudama Nagar. The agent registers a complaint for the user and provides a confirmation.\",\n  \"main_topics\": [\"water shortage\", \"complaint registration\", \"municipal services\"],\n  \"user_intent\": \"Report water shortage\",\n  \"ai_helpfulness\": \"Complaint registration\",\n  \"conversation_outcome\": \"Complaint registered\",\n  \"duration_estimate\": \"Long\"\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi,",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi, my",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi, my name",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi, my name is",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi, my name is Swara,",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant,",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "12eb10d2-55dd-4bfb-be45-478700be5677",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant, how may I help you today?\n",
+      "timestamp": "2025-08-24T21:53:52.443Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फे",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वा",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉ",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टे",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉ",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉब्लम",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉब्लम इन",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉब्लम इन माय",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉब्लम इन माय लोक",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉब्लम इन माय लोकलि",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉब्लम इन माय लोकलिटी",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉब्लम इन माय लोकलिटी इन",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "c64b326d-03cc-48fe-a2de-58c3aca448b8",
+      "sender": "user",
+      "message": "आई एम फेसिंग वाटर शॉर्टेज प्रॉब्लम इन माय लोकलिटी इन सुदामा नगर",
+      "timestamp": "2025-08-24T21:53:59.594Z"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay,",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage.",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could you",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could you please",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could you please provide",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could you please provide a",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could you please provide a brief",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could you please provide a brief description",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could you please provide a brief description of the issue, your name,",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "bb50d1c9-5054-46e5-b5df-0ff208180150",
+      "sender": "agent",
+      "message": "Okay, I can help you register a complaint for water shortage. Could you please provide a brief description of the issue, your name, and a contact number?\n",
+      "timestamp": "2025-08-24T21:54:04.063Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikun",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Mal",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Malta",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my con",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 7",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 79",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 797",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 7974",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 79747",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 797472",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 7974729",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "b2594f0d-07a6-4227-902a-af4c9c578a28",
+      "sender": "user",
+      "message": "My name is Nikunj Maltare and my contact number is 7974729045.",
+      "timestamp": "2025-08-24T21:54:15.939Z"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you,",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj.",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name and",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name and contact",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name and contact number.",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name and contact number. You",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name and contact number. You will",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name and contact number. You will receive",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name and contact number. You will receive an",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "3b65361c-c26c-4099-9485-f0af6e33ae71",
+      "sender": "agent",
+      "message": "Thank you, Nikunj. I have registered a water shortage complaint for Sudama Nagar under your name and contact number. You will receive an update soon. Is there anything else I can help you with?\n",
+      "timestamp": "2025-08-24T21:54:20.747Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "0433965e-1d29-4c02-8dcc-654ff65a10ad",
+      "sender": "user",
+      "message": "నో",
+      "timestamp": "2025-08-24T21:54:33.313Z"
+    },
+    {
+      "id": "0433965e-1d29-4c02-8dcc-654ff65a10ad",
+      "sender": "user",
+      "message": "నో నో",
+      "timestamp": "2025-08-24T21:54:33.313Z"
+    },
+    {
+      "id": "0433965e-1d29-4c02-8dcc-654ff65a10ad",
+      "sender": "user",
+      "message": "నో నో దట్",
+      "timestamp": "2025-08-24T21:54:33.313Z"
+    },
+    {
+      "id": "0433965e-1d29-4c02-8dcc-654ff65a10ad",
+      "sender": "user",
+      "message": "నో నో దట్స్",
+      "timestamp": "2025-08-24T21:54:33.313Z"
+    },
+    {
+      "id": "0433965e-1d29-4c02-8dcc-654ff65a10ad",
+      "sender": "user",
+      "message": "నో నో దట్స్ ఆల్ ఫర్ టుడే థాంక్యూ",
+      "timestamp": "2025-08-24T21:54:33.313Z"
+    },
+    {
+      "id": "5b33d5ea-68ee-4de8-a515-2127e060a8e2",
+      "sender": "agent",
+      "message": "You're",
+      "timestamp": "2025-08-24T21:54:34.727Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "5b33d5ea-68ee-4de8-a515-2127e060a8e2",
+      "sender": "agent",
+      "message": "You're welcome,",
+      "timestamp": "2025-08-24T21:54:34.727Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "5b33d5ea-68ee-4de8-a515-2127e060a8e2",
+      "sender": "agent",
+      "message": "You're welcome, Nikunj.",
+      "timestamp": "2025-08-24T21:54:34.727Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "5b33d5ea-68ee-4de8-a515-2127e060a8e2",
+      "sender": "agent",
+      "message": "You're welcome, Nikunj. Have a good day!\n",
+      "timestamp": "2025-08-24T21:54:34.727Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "089bf513-1dde-4c87-b070-14b174eddf19",
+      "sender": "user",
+      "message": "सेम टू यू",
+      "timestamp": "2025-08-24T21:54:39.344Z"
+    },
+    {
+      "id": "3e35049e-df5c-42a4-8b3a-ffcc318a041b",
+      "sender": "agent",
+      "message": "Thank you!\n",
+      "timestamp": "2025-08-24T21:54:40.265Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-24T21:54:44.601Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

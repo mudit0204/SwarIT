@@ -1,0 +1,339 @@
+{
+  "timestamp": "2025-08-27T17:17:32.583Z",
+  "analysisType": "summary",
+  "conversationLength": 48,
+  "userMessages": 15,
+  "agentMessages": 33,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The user is attempting to register a new complaint, but is having difficulty being understood. The agent switches to Hindi to assist.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "e4fa0ba1-d82a-4539-8a3b-2d0291a43c64",
+      "sender": "user",
+      "message": "Hello, so welcome.",
+      "timestamp": "2025-08-27T17:16:50.433Z"
+    },
+    {
+      "id": "2b862139-6d8e-4b40-89ff-cda15a92b0da",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T17:16:50.447Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you like",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you like to",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you like to register",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you like to register a",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you like to register a new",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f16c84b4-8579-4193-8aa9-e1a6e5d7bdce",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an existing one?\n",
+      "timestamp": "2025-08-27T17:16:51.353Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "6e20d6d9-8abd-4ff3-bcf9-91185fb6be17",
+      "sender": "user",
+      "message": "Hello.",
+      "timestamp": "2025-08-27T17:16:57.429Z"
+    },
+    {
+      "id": "26e4a65e-ac4e-441c-a94d-5d5fd52e662e",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track",
+      "timestamp": "2025-08-27T17:16:58.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "26e4a65e-ac4e-441c-a94d-5d5fd52e662e",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an",
+      "timestamp": "2025-08-27T17:16:58.356Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "ae52c647-bc78-49ea-be78-c7153f43d338",
+      "sender": "user",
+      "message": "He",
+      "timestamp": "2025-08-27T17:17:04.023Z"
+    },
+    {
+      "id": "ae52c647-bc78-49ea-be78-c7153f43d338",
+      "sender": "user",
+      "message": "Hello",
+      "timestamp": "2025-08-27T17:17:04.023Z"
+    },
+    {
+      "id": "ae52c647-bc78-49ea-be78-c7153f43d338",
+      "sender": "user",
+      "message": "Hello he",
+      "timestamp": "2025-08-27T17:17:04.023Z"
+    },
+    {
+      "id": "ae52c647-bc78-49ea-be78-c7153f43d338",
+      "sender": "user",
+      "message": "Hello hello",
+      "timestamp": "2025-08-27T17:17:04.023Z"
+    },
+    {
+      "id": "ae52c647-bc78-49ea-be78-c7153f43d338",
+      "sender": "user",
+      "message": "Hello hello he",
+      "timestamp": "2025-08-27T17:17:04.023Z"
+    },
+    {
+      "id": "ae52c647-bc78-49ea-be78-c7153f43d338",
+      "sender": "user",
+      "message": "Hello hello hello",
+      "timestamp": "2025-08-27T17:17:04.023Z"
+    },
+    {
+      "id": "ae52c647-bc78-49ea-be78-c7153f43d338",
+      "sender": "user",
+      "message": "Hello hello hello he",
+      "timestamp": "2025-08-27T17:17:04.023Z"
+    },
+    {
+      "id": "ae52c647-bc78-49ea-be78-c7153f43d338",
+      "sender": "user",
+      "message": "Hello hello hello hello hello.",
+      "timestamp": "2025-08-27T17:17:04.023Z"
+    },
+    {
+      "id": "bdcecfb3-9359-4545-a051-df6e4cad9b12",
+      "sender": "user",
+      "message": "You",
+      "timestamp": "2025-08-27T17:17:14.733Z"
+    },
+    {
+      "id": "bdcecfb3-9359-4545-a051-df6e4cad9b12",
+      "sender": "user",
+      "message": "You can't listen to me.",
+      "timestamp": "2025-08-27T17:17:14.733Z"
+    },
+    {
+      "id": "27140930-7c09-4e7d-957d-58fb269ff1d0",
+      "sender": "agent",
+      "message": "I",
+      "timestamp": "2025-08-27T17:17:15.929Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "27140930-7c09-4e7d-957d-58fb269ff1d0",
+      "sender": "agent",
+      "message": "I apologize,",
+      "timestamp": "2025-08-27T17:17:15.929Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "fe64c7f4-ad34-4eca-b745-f266d59ef01c",
+      "sender": "user",
+      "message": "हे",
+      "timestamp": "2025-08-27T17:17:22.936Z"
+    },
+    {
+      "id": "fe64c7f4-ad34-4eca-b745-f266d59ef01c",
+      "sender": "user",
+      "message": "हेलो",
+      "timestamp": "2025-08-27T17:17:22.936Z"
+    },
+    {
+      "id": "fe64c7f4-ad34-4eca-b745-f266d59ef01c",
+      "sender": "user",
+      "message": "हेलो स्वरा",
+      "timestamp": "2025-08-27T17:17:22.936Z"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते!",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है,",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक।",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप नई",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप नई शिकायत",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप नई शिकायत दर्ज",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप नई शिकायत दर्ज करना",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप नई शिकायत दर्ज करना चाहेंगे",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप नई शिकायत दर्ज करना चाहेंगे या",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप नई शिकायत दर्ज करना चाहेंगे या मौजूदा",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1de15ea9-bb99-4beb-8489-4c2020514f72",
+      "sender": "agent",
+      "message": "नमस्ते! मेरा नाम स्वरा है, आपकी नगर पालिका सहायक। क्या आप नई शिकायत दर्ज करना चाहेंगे या मौजूदा शिकायत",
+      "timestamp": "2025-08-27T17:17:24.886Z",
+      "agentState": "speaking"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T17:17:32.583Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

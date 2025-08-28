@@ -1,0 +1,256 @@
+{
+  "timestamp": "2025-08-28T06:36:16.867Z",
+  "analysisType": "summary",
+  "conversationLength": 36,
+  "userMessages": 14,
+  "agentMessages": 22,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The user wants to register a new complaint but prefers to communicate in Hindi instead of Gujarati.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would you",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would you like",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would you like to",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would you like to register",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would you like to register a",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would you like to register a new",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "a4883a2d-4465-4f22-8096-7bc9db5a53dc",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an existing one?\n",
+      "timestamp": "2025-08-28T06:35:59.541Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गु",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजरा",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं आती",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं आती उसके",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं आती उसके मुंह",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं आती उसके मुंह पर",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं आती उसके मुंह पर मत",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं आती उसके मुंह पर मत बोल",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं आती उसके मुंह पर मत बोल यार",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "ecde5274-25b6-487c-8969-624deaed8694",
+      "sender": "user",
+      "message": "मेरे को गुजराती नहीं आती उसके मुंह पर मत बोल यार क्या बोलूं फिर",
+      "timestamp": "2025-08-28T06:36:07.809Z"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi.",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi. क्या",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi. क्या आप",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi. क्या आप नई",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi. क्या आप नई शिकायत",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi. क्या आप नई शिकायत दर्ज",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi. क्या आप नई शिकायत दर्ज करना",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi. क्या आप नई शिकायत दर्ज करना चाहेंगे",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c99e4343-65a4-4c78-88c1-6874c41579f5",
+      "sender": "agent",
+      "message": "I understand you prefer Hindi. क्या आप नई शिकायत दर्ज करना चाहेंगे या",
+      "timestamp": "2025-08-28T06:36:10.499Z",
+      "agentState": "speaking"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-28T06:36:16.867Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

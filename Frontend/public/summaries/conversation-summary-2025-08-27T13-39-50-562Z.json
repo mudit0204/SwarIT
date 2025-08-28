@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-08-27T13:39:50.562Z",
+  "analysisType": "summary",
+  "conversationLength": 16,
+  "userMessages": 2,
+  "agentMessages": 14,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The agent introduced themselves as multilingual and offered assistance, but the user's initial question was about the number of languages the agent knows.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "0b5d6ab2-f730-4a0c-86fd-636dca3be067",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T13:39:29.609Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "03e92dca-cc33-4e3a-be24-4f02d68b517e",
+      "sender": "user",
+      "message": "Hi",
+      "timestamp": "2025-08-27T13:39:30.131Z"
+    },
+    {
+      "id": "3a2cbc76-b489-4e3c-9b33-71c387e11d0f",
+      "sender": "user",
+      "message": "How many languages do you know",
+      "timestamp": "2025-08-27T13:39:32.488Z"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can assist",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in many",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in many languages.",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in many languages. How",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in many languages. How can",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "6435b459-c63b-4e98-9813-b4b38ddcb73a",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in many languages. How can I help you today?\n",
+      "timestamp": "2025-08-27T13:39:33.699Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T13:39:50.562Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

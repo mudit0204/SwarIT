@@ -1,0 +1,604 @@
+{
+  "timestamp": "2025-08-24T22:01:24.061Z",
+  "analysisType": "summary",
+  "conversationLength": 88,
+  "userMessages": 30,
+  "agentMessages": 58,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The user reports potholes near Khajrana Temple, and the agent, Swara, a municipal assistant, files a complaint. User provides name and contact information.\"\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "3144e310-8aec-403a-b801-343665d32f87",
+      "sender": "agent",
+      "message": "Hi,",
+      "timestamp": "2025-08-24T22:00:18.952Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "3e4db321-1b3e-4a65-b5a3-d03c47ab7e64",
+      "sender": "user",
+      "message": "हेलो",
+      "timestamp": "2025-08-24T22:00:18.996Z"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते!",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा,",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक,",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं आपकी",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं आपकी कैसे",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं आपकी कैसे मदद",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं आपकी कैसे मदद कर",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं आपकी कैसे मदद कर सकती",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं आपकी कैसे मदद कर सकती हूँ?",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "20828a8a-419d-4c27-b632-c22d657926a0",
+      "sender": "agent",
+      "message": "नमस्ते! मैं स्वरा, आपकी नगरपालिका सहायक, आज मैं आपकी कैसे मदद कर सकती हूँ?\n",
+      "timestamp": "2025-08-24T22:00:20.371Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमार",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमारे",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमारे यहां",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमारे यहां पे",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमारे यहां पे पा",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमारे यहां पे पार्ट",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमारे यहां पे पार्ट हो",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमारे यहां पे पार्ट होल्स",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "56907418-1081-45e8-bc79-6ad36f6c4f8a",
+      "sender": "user",
+      "message": "हमारे यहां पे पार्ट होल्स बहुत ज्यादा हो गए हैं",
+      "timestamp": "2025-08-24T22:00:28.460Z"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है।",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप किस",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप किस प्रकार",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप किस प्रकार की",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप किस प्रकार की शिकायत",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप किस प्रकार की शिकायत दर्ज",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप किस प्रकार की शिकायत दर्ज करना",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप किस प्रकार की शिकायत दर्ज करना चाहेंगे?",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "f8b01b6a-3b31-4709-8533-d5e328486ff6",
+      "sender": "agent",
+      "message": "ठीक है। क्या आप कृपया बता सकते हैं कि आप किस प्रकार की शिकायत दर्ज करना चाहेंगे?\n",
+      "timestamp": "2025-08-24T22:00:31.565Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "23f24f08-d683-4e62-9842-84f4321156be",
+      "sender": "user",
+      "message": "हमारे यहां पे ग",
+      "timestamp": "2025-08-24T22:00:38.463Z"
+    },
+    {
+      "id": "23f24f08-d683-4e62-9842-84f4321156be",
+      "sender": "user",
+      "message": "हमारे यहां पे गड्ढे बहुत ज्यादा",
+      "timestamp": "2025-08-24T22:00:38.463Z"
+    },
+    {
+      "id": "23f24f08-d683-4e62-9842-84f4321156be",
+      "sender": "user",
+      "message": "हमारे यहां पे गड्ढे बहुत ज्यादा हो गए जिससे",
+      "timestamp": "2025-08-24T22:00:38.463Z"
+    },
+    {
+      "id": "23f24f08-d683-4e62-9842-84f4321156be",
+      "sender": "user",
+      "message": "हमारे यहां पे गड्ढे बहुत ज्यादा हो गए जिससे गिर",
+      "timestamp": "2025-08-24T22:00:38.463Z"
+    },
+    {
+      "id": "23f24f08-d683-4e62-9842-84f4321156be",
+      "sender": "user",
+      "message": "हमारे यहां पे गड्ढे बहुत ज्यादा हो गए जिससे गिर सकते हैं हम",
+      "timestamp": "2025-08-24T22:00:38.463Z"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र का नाम",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र का नाम बता",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र का नाम बता सकते",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र का नाम बता सकते हैं",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र का नाम बता सकते हैं जहाँ",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र का नाम बता सकते हैं जहाँ गड्ढे",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र का नाम बता सकते हैं जहाँ गड्ढे हैं?",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "be494a34-cc09-4038-932a-611f267295dd",
+      "sender": "agent",
+      "message": "क्या आप कृपया उस क्षेत्र का नाम बता सकते हैं जहाँ गड्ढे हैं?\n",
+      "timestamp": "2025-08-24T22:00:42.284Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "aa6e5f66-528e-46da-ae3b-630fb24f3049",
+      "sender": "user",
+      "message": "ख",
+      "timestamp": "2025-08-24T22:00:48.448Z"
+    },
+    {
+      "id": "aa6e5f66-528e-46da-ae3b-630fb24f3049",
+      "sender": "user",
+      "message": "खज",
+      "timestamp": "2025-08-24T22:00:48.448Z"
+    },
+    {
+      "id": "aa6e5f66-528e-46da-ae3b-630fb24f3049",
+      "sender": "user",
+      "message": "खजराना मंदिर के पास",
+      "timestamp": "2025-08-24T22:00:48.448Z"
+    },
+    {
+      "id": "0f023aa0-2876-48ad-bd11-2aabcafbc386",
+      "sender": "agent",
+      "message": "क्या आप",
+      "timestamp": "2025-08-24T22:00:49.733Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0f023aa0-2876-48ad-bd11-2aabcafbc386",
+      "sender": "agent",
+      "message": "क्या आप कृपया अपना",
+      "timestamp": "2025-08-24T22:00:49.733Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0f023aa0-2876-48ad-bd11-2aabcafbc386",
+      "sender": "agent",
+      "message": "क्या आप कृपया अपना नाम और",
+      "timestamp": "2025-08-24T22:00:49.733Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0f023aa0-2876-48ad-bd11-2aabcafbc386",
+      "sender": "agent",
+      "message": "क्या आप कृपया अपना नाम और संपर्क नंबर बता सकते",
+      "timestamp": "2025-08-24T22:00:49.733Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0f023aa0-2876-48ad-bd11-2aabcafbc386",
+      "sender": "agent",
+      "message": "क्या आप कृपया अपना नाम और संपर्क नंबर बता सकते हैं?\n",
+      "timestamp": "2025-08-24T22:00:49.733Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "8f1994f4-1c61-4f0f-9f10-f25417d3cf7d",
+      "sender": "user",
+      "message": "मे",
+      "timestamp": "2025-08-24T22:00:54.945Z"
+    },
+    {
+      "id": "8f1994f4-1c61-4f0f-9f10-f25417d3cf7d",
+      "sender": "user",
+      "message": "मेरा",
+      "timestamp": "2025-08-24T22:00:54.945Z"
+    },
+    {
+      "id": "8f1994f4-1c61-4f0f-9f10-f25417d3cf7d",
+      "sender": "user",
+      "message": "मेरा नाम निकुंज मोहम्मद",
+      "timestamp": "2025-08-24T22:00:54.945Z"
+    },
+    {
+      "id": "12cfe833-ca8f-48d6-80c2-1dd85cc35d56",
+      "sender": "agent",
+      "message": "क्या आप कृपया",
+      "timestamp": "2025-08-24T22:00:56.166Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "81287e25-ae6d-4ea4-be4e-ad9dead7255d",
+      "sender": "user",
+      "message": "1",
+      "timestamp": "2025-08-24T22:00:57.764Z"
+    },
+    {
+      "id": "81287e25-ae6d-4ea4-be4e-ad9dead7255d",
+      "sender": "user",
+      "message": "1 2 3 4 5 6",
+      "timestamp": "2025-08-24T22:00:57.764Z"
+    },
+    {
+      "id": "7c64d046-7bc7-498e-8ce8-70890a37d4bc",
+      "sender": "agent",
+      "message": "ठीक है। आपकी गड्ढों की शिकायत खजराना मंदिर के पास दर्ज कर ली गई है, निकुंज मोहम्मद जी।\n",
+      "timestamp": "2025-08-24T22:01:03.511Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "699dd5f4-78f6-4954-9ad4-7977e44baa31",
+      "sender": "user",
+      "message": "धन",
+      "timestamp": "2025-08-24T22:01:07.965Z"
+    },
+    {
+      "id": "699dd5f4-78f6-4954-9ad4-7977e44baa31",
+      "sender": "user",
+      "message": "धन्यवाद",
+      "timestamp": "2025-08-24T22:01:07.965Z"
+    },
+    {
+      "id": "4f6a4295-a51b-4a56-97d1-fc5f0f427bfb",
+      "sender": "agent",
+      "message": "नमस्ते!\n",
+      "timestamp": "2025-08-24T22:01:09.494Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "213e71cd-4541-4664-8c10-b31cf7775eb6",
+      "sender": "user",
+      "message": "धन्य",
+      "timestamp": "2025-08-24T22:01:12.851Z"
+    },
+    {
+      "id": "213e71cd-4541-4664-8c10-b31cf7775eb6",
+      "sender": "user",
+      "message": "धन्यवाद न",
+      "timestamp": "2025-08-24T22:01:12.851Z"
+    },
+    {
+      "id": "213e71cd-4541-4664-8c10-b31cf7775eb6",
+      "sender": "user",
+      "message": "धन्यवाद नमस्ते",
+      "timestamp": "2025-08-24T22:01:12.851Z"
+    },
+    {
+      "id": "213e71cd-4541-4664-8c10-b31cf7775eb6",
+      "sender": "user",
+      "message": "धन्यवाद नमस्ते क्यों",
+      "timestamp": "2025-08-24T22:01:12.851Z"
+    },
+    {
+      "id": "213e71cd-4541-4664-8c10-b31cf7775eb6",
+      "sender": "user",
+      "message": "धन्यवाद नमस्ते क्यों भेजता है ये",
+      "timestamp": "2025-08-24T22:01:12.851Z"
+    },
+    {
+      "id": "1096f5b0-7b52-48df-ac69-7834107fab4a",
+      "sender": "agent",
+      "message": "मैं",
+      "timestamp": "2025-08-24T22:01:15.094Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1096f5b0-7b52-48df-ac69-7834107fab4a",
+      "sender": "agent",
+      "message": "मैं यहाँ",
+      "timestamp": "2025-08-24T22:01:15.094Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1096f5b0-7b52-48df-ac69-7834107fab4a",
+      "sender": "agent",
+      "message": "मैं यहाँ आपकी मदद",
+      "timestamp": "2025-08-24T22:01:15.094Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1096f5b0-7b52-48df-ac69-7834107fab4a",
+      "sender": "agent",
+      "message": "मैं यहाँ आपकी मदद करने",
+      "timestamp": "2025-08-24T22:01:15.094Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1096f5b0-7b52-48df-ac69-7834107fab4a",
+      "sender": "agent",
+      "message": "मैं यहाँ आपकी मदद करने के लिए हूँ।",
+      "timestamp": "2025-08-24T22:01:15.094Z",
+      "agentState": "speaking"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-24T22:01:24.062Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

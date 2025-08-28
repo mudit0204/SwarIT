@@ -1,0 +1,94 @@
+{
+  "timestamp": "2025-08-27T13:52:21.461Z",
+  "analysisType": "summary",
+  "conversationLength": 11,
+  "userMessages": 1,
+  "agentMessages": 10,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The agent is asking Swara if they want to register a complaint or track an existing one.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "9df997e9-0153-49c1-87e2-f0a2b69c60d7",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T13:52:13.048Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "1bd17439-de39-4f8c-9db0-54a04fd03f7d",
+      "sender": "user",
+      "message": "హాయ్ స్వరా",
+      "timestamp": "2025-08-27T13:52:13.582Z"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్,",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్, స్వరా,",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్, స్వరా, మీరు",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్, స్వరా, మీరు ఫిర్యాదును",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్, స్వరా, మీరు ఫిర్యాదును నమోదు",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్, స్వరా, మీరు ఫిర్యాదును నమోదు చేయాలనుకుంటున్నారా",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్, స్వరా, మీరు ఫిర్యాదును నమోదు చేయాలనుకుంటున్నారా లేదా",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్, స్వరా, మీరు ఫిర్యాదును నమోదు చేయాలనుకుంటున్నారా లేదా ట్రాక్",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "975da677-e23e-45e0-93e3-09ffd256e9e7",
+      "sender": "agent",
+      "message": "హాయ్, స్వరా, మీరు ఫిర్యాదును నమోదు చేయాలనుకుంటున్నారా లేదా ట్రాక్ చేయాలనుకుంటున్నారా?",
+      "timestamp": "2025-08-27T13:52:15.014Z",
+      "agentState": "speaking"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T13:52:21.461Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

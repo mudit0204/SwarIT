@@ -1,0 +1,206 @@
+{
+  "timestamp": "2025-08-28T06:52:16.521Z",
+  "analysisType": "summary",
+  "conversationLength": 28,
+  "userMessages": 8,
+  "agentMessages": 20,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The agent is asking the user if they would like to register a complaint or track an existing one. The user seems to be responding to something else, possibly unrelated.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "57639861-3a33-4e3b-a6fb-9c20002aa7a1",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-28T06:51:52.237Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "36b2a8b2-4ae6-46b2-ba0a-beee6d2aeaec",
+      "sender": "user",
+      "message": "तो इसका डिफॉर्म है",
+      "timestamp": "2025-08-28T06:51:52.669Z"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you like",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you like to",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you like to register",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you like to register a",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you like to register a complaint",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you like to register a complaint or",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you like to register a complaint or track",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "19714391-20cc-497d-a18e-058a3928406c",
+      "sender": "agent",
+      "message": "Would you like to register a complaint or track an existing one?\n",
+      "timestamp": "2025-08-28T06:51:53.596Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "d3c55837-7ea1-49cf-93cd-2e042db8e109",
+      "sender": "user",
+      "message": "ऑटो से मिल गया।",
+      "timestamp": "2025-08-28T06:52:05.852Z"
+    },
+    {
+      "id": "e379f705-054d-4918-891c-fac980a00be6",
+      "sender": "agent",
+      "message": "Okay,",
+      "timestamp": "2025-08-28T06:52:06.351Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "4b0bb42c-8f61-4a00-ba96-d0ab833015b0",
+      "sender": "user",
+      "message": "अ",
+      "timestamp": "2025-08-28T06:52:08.111Z"
+    },
+    {
+      "id": "4b0bb42c-8f61-4a00-ba96-d0ab833015b0",
+      "sender": "user",
+      "message": "अरे",
+      "timestamp": "2025-08-28T06:52:08.111Z"
+    },
+    {
+      "id": "4b0bb42c-8f61-4a00-ba96-d0ab833015b0",
+      "sender": "user",
+      "message": "अरे यार",
+      "timestamp": "2025-08-28T06:52:08.111Z"
+    },
+    {
+      "id": "4b0bb42c-8f61-4a00-ba96-d0ab833015b0",
+      "sender": "user",
+      "message": "अरे यार मु",
+      "timestamp": "2025-08-28T06:52:08.111Z"
+    },
+    {
+      "id": "4b0bb42c-8f61-4a00-ba96-d0ab833015b0",
+      "sender": "user",
+      "message": "अरे यार मुझे",
+      "timestamp": "2025-08-28T06:52:08.111Z"
+    },
+    {
+      "id": "4b0bb42c-8f61-4a00-ba96-d0ab833015b0",
+      "sender": "user",
+      "message": "अरे यार मुझे ठाकरे",
+      "timestamp": "2025-08-28T06:52:08.111Z"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok,",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok, would",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok, would you",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok, would you like",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok, would you like to",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok, would you like to register",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok, would you like to register a",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok, would you like to register a complaint?",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "977db51d-db73-4f7a-aace-30015a9ff0bd",
+      "sender": "agent",
+      "message": "Ok, would you like to register a complaint?\n",
+      "timestamp": "2025-08-28T06:52:09.629Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-28T06:52:16.521Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

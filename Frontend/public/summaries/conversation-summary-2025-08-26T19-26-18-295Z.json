@@ -1,0 +1,1679 @@
+{
+  "timestamp": "2025-08-26T19:26:18.297Z",
+  "analysisType": "summary",
+  "conversationLength": 248,
+  "userMessages": 75,
+  "agentMessages": 173,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The user registered a new complaint regarding electricity shortage in Sanchar Nagar. The agent collected the user's name, contact number, and email, and provided a reference ID for tracking the complaint. The agent also sent an email with the reference ID.\",\n  \"personal_info\": {\n    \"email\": \"muditthakre2004@gmail.com\",\n    \"phone\": \"8827240204\",\n    \"address\": null,\n    \"location\": \"संचार नगर\"\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would you",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would you like",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would you like to",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would you like to register",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would you like to register a",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would you like to register a new",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0033431f-95ff-41e4-8b0c-9db36292fd64",
+      "sender": "agent",
+      "message": "Would you like to register a new complaint or track an existing one?\n",
+      "timestamp": "2025-08-26T19:22:16.232Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "830185f1-f942-4502-a425-8cff18189797",
+      "sender": "user",
+      "message": "I",
+      "timestamp": "2025-08-26T19:22:21.577Z"
+    },
+    {
+      "id": "830185f1-f942-4502-a425-8cff18189797",
+      "sender": "user",
+      "message": "I would",
+      "timestamp": "2025-08-26T19:22:21.577Z"
+    },
+    {
+      "id": "830185f1-f942-4502-a425-8cff18189797",
+      "sender": "user",
+      "message": "I would like",
+      "timestamp": "2025-08-26T19:22:21.577Z"
+    },
+    {
+      "id": "830185f1-f942-4502-a425-8cff18189797",
+      "sender": "user",
+      "message": "I would like to",
+      "timestamp": "2025-08-26T19:22:21.577Z"
+    },
+    {
+      "id": "830185f1-f942-4502-a425-8cff18189797",
+      "sender": "user",
+      "message": "I would like to re",
+      "timestamp": "2025-08-26T19:22:21.577Z"
+    },
+    {
+      "id": "830185f1-f942-4502-a425-8cff18189797",
+      "sender": "user",
+      "message": "I would like to regi",
+      "timestamp": "2025-08-26T19:22:21.577Z"
+    },
+    {
+      "id": "830185f1-f942-4502-a425-8cff18189797",
+      "sender": "user",
+      "message": "I would like to register a new complaint.",
+      "timestamp": "2025-08-26T19:22:21.577Z"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay.",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register?",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example,",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is it",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is it related",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is it related to",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is it related to water",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is it related to water shortage,",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is it related to water shortage, waste,",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is it related to water shortage, waste, electricity,",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "eed46216-01aa-4f03-b2f6-97316387b2c0",
+      "sender": "agent",
+      "message": "Okay. What type of complaint would you like to register? For example, is it related to water shortage, waste, electricity, or roads?\n",
+      "timestamp": "2025-08-26T19:22:23.754Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "c3fc32a6-5dcc-4982-bd54-be9ea2d2e36e",
+      "sender": "user",
+      "message": "इलेक्ट्रिसिटी",
+      "timestamp": "2025-08-26T19:22:34.797Z"
+    },
+    {
+      "id": "0dd1b046-c5c0-43da-8ff2-4d496228ae86",
+      "sender": "agent",
+      "message": "Please",
+      "timestamp": "2025-08-26T19:22:35.640Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0dd1b046-c5c0-43da-8ff2-4d496228ae86",
+      "sender": "agent",
+      "message": "Please describe",
+      "timestamp": "2025-08-26T19:22:35.640Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0dd1b046-c5c0-43da-8ff2-4d496228ae86",
+      "sender": "agent",
+      "message": "Please describe the",
+      "timestamp": "2025-08-26T19:22:35.640Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0dd1b046-c5c0-43da-8ff2-4d496228ae86",
+      "sender": "agent",
+      "message": "Please describe the electricity-related",
+      "timestamp": "2025-08-26T19:22:35.640Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "0dd1b046-c5c0-43da-8ff2-4d496228ae86",
+      "sender": "agent",
+      "message": "Please describe the electricity-related complaint in more detail.\n",
+      "timestamp": "2025-08-26T19:22:35.640Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "The",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a sho",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage of",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage of ele",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage of electric",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage of electricity",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage of electricity in",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage of electricity in my",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage of electricity in my are",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "ac77467f-26a1-4ef7-84cf-e387f9414997",
+      "sender": "user",
+      "message": "There is a shortage of electricity in my areas on the",
+      "timestamp": "2025-08-26T19:22:43.030Z"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which area",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which area or",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which area or locality",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which area or locality are",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which area or locality are you",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which area or locality are you referring",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which area or locality are you referring to?",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "d8f0e247-4724-40d0-8633-1918e042502e",
+      "sender": "agent",
+      "message": "Which area or locality are you referring to?\n",
+      "timestamp": "2025-08-26T19:22:46.221Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "17bbbe21-b303-4d79-94b8-071a37544c2f",
+      "sender": "user",
+      "message": "संचार नगर र र र र",
+      "timestamp": "2025-08-26T19:22:51.962Z"
+    },
+    {
+      "id": "2bee01ea-5a3d-4f94-9350-39d0f6c3e738",
+      "sender": "agent",
+      "message": "Okay. Could",
+      "timestamp": "2025-08-26T19:22:52.909Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2bee01ea-5a3d-4f94-9350-39d0f6c3e738",
+      "sender": "agent",
+      "message": "Okay. Could you",
+      "timestamp": "2025-08-26T19:22:52.909Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2bee01ea-5a3d-4f94-9350-39d0f6c3e738",
+      "sender": "agent",
+      "message": "Okay. Could you please",
+      "timestamp": "2025-08-26T19:22:52.909Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2bee01ea-5a3d-4f94-9350-39d0f6c3e738",
+      "sender": "agent",
+      "message": "Okay. Could you please provide",
+      "timestamp": "2025-08-26T19:22:52.909Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2bee01ea-5a3d-4f94-9350-39d0f6c3e738",
+      "sender": "agent",
+      "message": "Okay. Could you please provide your",
+      "timestamp": "2025-08-26T19:22:52.909Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2bee01ea-5a3d-4f94-9350-39d0f6c3e738",
+      "sender": "agent",
+      "message": "Okay. Could you please provide your full",
+      "timestamp": "2025-08-26T19:22:52.909Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2bee01ea-5a3d-4f94-9350-39d0f6c3e738",
+      "sender": "agent",
+      "message": "Okay. Could you please provide your full name?",
+      "timestamp": "2025-08-26T19:22:52.909Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2bee01ea-5a3d-4f94-9350-39d0f6c3e738",
+      "sender": "agent",
+      "message": "Okay. Could you please provide your full name?\n",
+      "timestamp": "2025-08-26T19:22:52.909Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4bef50db-52dc-41f5-91b5-2024607fc075",
+      "sender": "user",
+      "message": "मध्य ठाकरे",
+      "timestamp": "2025-08-26T19:22:58.799Z"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could you",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could you please",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could you please provide",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could you please provide your",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could you please provide your 10-digit",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could you please provide your 10-digit contact",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could you please provide your 10-digit contact number?",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "9b8802ce-a692-40c9-8470-5ffc3abdb3b2",
+      "sender": "agent",
+      "message": "Could you please provide your 10-digit contact number?\n",
+      "timestamp": "2025-08-26T19:22:59.673Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "f0e8beac-c4a9-4cf6-9dde-611bfb0567f4",
+      "sender": "user",
+      "message": "8",
+      "timestamp": "2025-08-26T19:23:06.201Z"
+    },
+    {
+      "id": "f0e8beac-c4a9-4cf6-9dde-611bfb0567f4",
+      "sender": "user",
+      "message": "88",
+      "timestamp": "2025-08-26T19:23:06.201Z"
+    },
+    {
+      "id": "f0e8beac-c4a9-4cf6-9dde-611bfb0567f4",
+      "sender": "user",
+      "message": "882",
+      "timestamp": "2025-08-26T19:23:06.201Z"
+    },
+    {
+      "id": "f0e8beac-c4a9-4cf6-9dde-611bfb0567f4",
+      "sender": "user",
+      "message": "8827",
+      "timestamp": "2025-08-26T19:23:06.201Z"
+    },
+    {
+      "id": "f0e8beac-c4a9-4cf6-9dde-611bfb0567f4",
+      "sender": "user",
+      "message": "8827240204",
+      "timestamp": "2025-08-26T19:23:06.201Z"
+    },
+    {
+      "id": "c49bb73d-4a67-442e-8d82-522f12db92a2",
+      "sender": "agent",
+      "message": "Thank",
+      "timestamp": "2025-08-26T19:23:07.772Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c49bb73d-4a67-442e-8d82-522f12db92a2",
+      "sender": "agent",
+      "message": "Thank you.",
+      "timestamp": "2025-08-26T19:23:07.772Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c49bb73d-4a67-442e-8d82-522f12db92a2",
+      "sender": "agent",
+      "message": "Thank you. Please",
+      "timestamp": "2025-08-26T19:23:07.772Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c49bb73d-4a67-442e-8d82-522f12db92a2",
+      "sender": "agent",
+      "message": "Thank you. Please provide",
+      "timestamp": "2025-08-26T19:23:07.772Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c49bb73d-4a67-442e-8d82-522f12db92a2",
+      "sender": "agent",
+      "message": "Thank you. Please provide your",
+      "timestamp": "2025-08-26T19:23:07.772Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c49bb73d-4a67-442e-8d82-522f12db92a2",
+      "sender": "agent",
+      "message": "Thank you. Please provide your email",
+      "timestamp": "2025-08-26T19:23:07.772Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c49bb73d-4a67-442e-8d82-522f12db92a2",
+      "sender": "agent",
+      "message": "Thank you. Please provide your email address.",
+      "timestamp": "2025-08-26T19:23:07.772Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "c49bb73d-4a67-442e-8d82-522f12db92a2",
+      "sender": "agent",
+      "message": "Thank you. Please provide your email address.\n",
+      "timestamp": "2025-08-26T19:23:07.772Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मो",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोद",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठा",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठाकरे",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठाकरे 2",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठाकरे 20",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठाकरे 200",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठाकरे 2004",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठाकरे 2004@",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठाकरे 2004@gma",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "708b52f4-51c8-4f94-ae08-c01c2f834c9c",
+      "sender": "user",
+      "message": "मोदक ठाकरे 2004@gmail.com",
+      "timestamp": "2025-08-26T19:23:16.344Z"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm,",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar.",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre,",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is 8827240204,",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is 8827240204, and",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is 8827240204, and your",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is 8827240204, and your email",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is 8827240204, and your email is",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is 8827240204, and your email is modakthakre2004@gmail.com.",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is 8827240204, and your email is modakthakre2004@gmail.com. Is",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "68345f6e-0a0e-49ca-af57-d5a005e126cd",
+      "sender": "agent",
+      "message": "Thank you. To confirm, your complaint is about electricity shortage in Sanchar Nagar. Your name is Modak Thakre, your contact number is 8827240204, and your email is modakthakre2004@gmail.com. Is that correct?\n",
+      "timestamp": "2025-08-26T19:23:20.427Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉ",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ई",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल ए",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रे",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज म",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदि",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित ठा",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित ठाकरे",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित ठाकरे 2",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित ठाकरे 20",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित ठाकरे 200",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित ठाकरे 2004",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित ठाकरे 2004@",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "ecef9249-4f26-4ec0-be85-09386bf2e07b",
+      "sender": "user",
+      "message": "सॉरी माय ईमेल एड्रेस इज मदित ठाकरे 2004@gmail.com",
+      "timestamp": "2025-08-26T19:23:44.377Z"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction.",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com.",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a moment",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a moment while",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a moment while I",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a moment while I generate",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a moment while I generate a",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a moment while I generate a reference",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a moment while I generate a reference ID",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "67472800-03be-4b1b-997f-410d62086869",
+      "sender": "agent",
+      "message": "Thank you for the correction. Your email is muditthakre2004@gmail.com. Please give me a moment while I generate a reference ID for",
+      "timestamp": "2025-08-26T19:23:49.040Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "6b35adf2-4abd-46c1-80c5-c6978c296ab5",
+      "sender": "user",
+      "message": "Yes.",
+      "timestamp": "2025-08-26T19:23:57.855Z"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered.",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294.",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID to",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID to track",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID to track the",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID to track the status",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID to track the status of",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID to track the status of your",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID to track the status of your complaint.",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "2c12ad86-6125-4083-b144-267a26d90992",
+      "sender": "agent",
+      "message": "Your complaint has been successfully registered. Your reference ID is SWARA-20240516-8294. You can use this ID to track the status of your complaint.\n",
+      "timestamp": "2025-08-26T19:23:58.786Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you ple",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you please",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you please se",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you please send",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you please send me a",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you please send me a ema",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you please send me a email",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you please send me a email of",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "541aa9f2-93e3-4a86-870a-4ed340841d34",
+      "sender": "user",
+      "message": "Can you please send me a email of my reference.",
+      "timestamp": "2025-08-26T19:24:15.273Z"
+    },
+    {
+      "id": "04b19609-3011-4268-9a68-7b5c5e4e1a29",
+      "sender": "user",
+      "message": "form <noise>",
+      "timestamp": "2025-08-26T19:24:21.689Z"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with your",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with your reference",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with your reference ID.",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with your reference ID. Is",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with your reference ID. Is there",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with your reference ID. Is there anything",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with your reference ID. Is there anything else",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "aebf2fc6-0248-4ae3-9d8d-2eb7c2b13335",
+      "sender": "agent",
+      "message": "I have sent you an email with your reference ID. Is there anything else I can help you with today?\n",
+      "timestamp": "2025-08-26T19:24:26.773Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "2a849920-6ff6-4935-9522-428b6f877462",
+      "sender": "user",
+      "message": "नहीं धन्यवाद",
+      "timestamp": "2025-08-26T19:24:34.198Z"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome.",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day,",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember you",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember you can",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember you can track",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember you can track your",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember you can track your complaint",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember you can track your complaint using",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember you can track your complaint using your",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "030eaf09-49ed-45a7-8269-0402f69951e3",
+      "sender": "agent",
+      "message": "You're welcome. Have a good day, and remember you can track your complaint using your reference ID.\n",
+      "timestamp": "2025-08-26T19:24:35.578Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-26T19:26:18.297Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

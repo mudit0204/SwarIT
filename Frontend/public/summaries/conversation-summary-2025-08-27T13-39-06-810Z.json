@@ -1,0 +1,297 @@
+{
+  "timestamp": "2025-08-27T13:39:06.810Z",
+  "analysisType": "summary",
+  "conversationLength": 41,
+  "userMessages": 8,
+  "agentMessages": 33,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The user is being asked if they want to register a new complaint or track an existing one. The agent offers multilingual support.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "40095db6-4231-4f54-9b88-643d7b40c6e6",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T13:38:43.809Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "821fac0c-57a2-4f32-bcb1-421a9638734a",
+      "sender": "user",
+      "message": "हाय सलाम",
+      "timestamp": "2025-08-27T13:38:44.385Z"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते!",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले से",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले से दर्ज",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले से दर्ज शिकायत",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले से दर्ज शिकायत को",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले से दर्ज शिकायत को ट्रैक",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले से दर्ज शिकायत को ट्रैक करना",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले से दर्ज शिकायत को ट्रैक करना चाहेंगे?",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "fae6155a-a4b4-4472-bd0d-54c5965948b7",
+      "sender": "agent",
+      "message": "नमस्ते! क्या आप शिकायत दर्ज करना चाहेंगे या पहले से दर्ज शिकायत को ट्रैक करना चाहेंगे?\n",
+      "timestamp": "2025-08-27T13:38:45.603Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "354db9dc-0683-4e86-a0e1-70994a075764",
+      "sender": "user",
+      "message": "ഹായ്",
+      "timestamp": "2025-08-27T13:38:53.597Z"
+    },
+    {
+      "id": "354db9dc-0683-4e86-a0e1-70994a075764",
+      "sender": "user",
+      "message": "ഹായ് ",
+      "timestamp": "2025-08-27T13:38:53.597Z"
+    },
+    {
+      "id": "354db9dc-0683-4e86-a0e1-70994a075764",
+      "sender": "user",
+      "message": "ഹായ് സ്വ",
+      "timestamp": "2025-08-27T13:38:53.597Z"
+    },
+    {
+      "id": "354db9dc-0683-4e86-a0e1-70994a075764",
+      "sender": "user",
+      "message": "ഹായ് സ്വരാ",
+      "timestamp": "2025-08-27T13:38:53.597Z"
+    },
+    {
+      "id": "354db9dc-0683-4e86-a0e1-70994a075764",
+      "sender": "user",
+      "message": "ഹായ് സ്വരാ ഹൗ",
+      "timestamp": "2025-08-27T13:38:53.597Z"
+    },
+    {
+      "id": "354db9dc-0683-4e86-a0e1-70994a075764",
+      "sender": "user",
+      "message": "ഹായ് സ്വരാ ഹൗ മെനി",
+      "timestamp": "2025-08-27T13:38:53.597Z"
+    },
+    {
+      "id": "354db9dc-0683-4e86-a0e1-70994a075764",
+      "sender": "user",
+      "message": "ഹായ് സ്വരാ ഹൗ മെനി ലാഗ്ജസ് ഡ യു നോ",
+      "timestamp": "2025-08-27T13:38:53.597Z"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in registering",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in registering or",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in registering or tracking",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in registering or tracking complaints",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in registering or tracking complaints in",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in registering or tracking complaints in your",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "34f67642-e405-4798-9942-5d9d6f928c47",
+      "sender": "agent",
+      "message": "I am multilingual and can assist you in registering or tracking complaints in your preferred language.\n",
+      "timestamp": "2025-08-27T13:38:55.864Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T13:39:06.810Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

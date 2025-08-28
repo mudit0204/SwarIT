@@ -1,0 +1,172 @@
+{
+  "timestamp": "2025-08-27T13:53:09.843Z",
+  "analysisType": "summary",
+  "conversationLength": 22,
+  "userMessages": 0,
+  "agentMessages": 22,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"Swarali, a municipal assistant, is asking Swara if she wants to file or track a complaint.\",\n  \"personal_info\": {\n    \"email\": null,\n    \"phone\": null,\n    \"address\": null,\n    \"location\": null\n  }\n}\n```",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "1b1af37d-9828-4608-bde3-aca73a2e8efc",
+      "sender": "agent",
+      "message": "Would",
+      "timestamp": "2025-08-27T13:52:51.886Z",
+      "agentState": "listening"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ,",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ,",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ.",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು?",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು ದೂರು",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು ದೂರು ದಾಖಲಿಸಲು",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು ದೂರು ದಾಖಲಿಸಲು ಬಯಸುತ್ತೀರಾ",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು ದೂರು ದಾಖಲಿಸಲು ಬಯಸುತ್ತೀರಾ ಅಥವಾ",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು ದೂರು ದಾಖಲಿಸಲು ಬಯಸುತ್ತೀರಾ ಅಥವಾ ಟ್ರ್ಯಾಕ್",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು ದೂರು ದಾಖಲಿಸಲು ಬಯಸುತ್ತೀರಾ ಅಥವಾ ಟ್ರ್ಯಾಕ್ ಮಾಡಲು",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು ದೂರು ದಾಖಲಿಸಲು ಬಯಸುತ್ತೀರಾ ಅಥವಾ ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "4b401f1b-5e37-4422-a6b3-6c77e792f0ca",
+      "sender": "agent",
+      "message": "ಹಾಯ್ ಸ್ವರಾ, ನಾನು ಸ್ವರಾ, ನಿಮ್ಮ ಪುರಸಭೆಯ ಸಹಾಯಕಿ. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನೀವು ದೂರು ದಾಖಲಿಸಲು ಬಯಸುತ್ತೀರಾ ಅಥವಾ ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?\n",
+      "timestamp": "2025-08-27T13:52:52.744Z",
+      "agentState": "speaking"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-27T13:53:09.843Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}

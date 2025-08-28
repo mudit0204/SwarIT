@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-08-24T21:37:46.765Z",
+  "analysisType": "summary",
+  "conversationLength": 11,
+  "userMessages": 0,
+  "agentMessages": 11,
+  "analysis": {
+    "raw_analysis": "```json\n{\n  \"conversation_summary\": \"The AI assistant, named Swara, introduced itself as a municipal assistant and offered help to the user. The conversation consists solely of Swara's introductory message, which was built up word by word.\",\n  \"main_topics\": [\"Introduction\", \"Municipal Assistance\"],\n  \"user_intent\": \"Unknown, as the user did not have a chance to state their intent. They likely intended to seek assistance with a municipal matter.\",\n  \"ai_helpfulness\": \"Cannot be determined as the user did not interact beyond the AI's introduction.\",\n  \"conversation_outcome\": \"Incomplete, as the user did not respond to the AI's offer of help.\",\n  \"duration_estimate\": \"Very short, likely under 30 seconds.\"\n}\n```\n",
+    "error": "Could not parse as JSON"
+  },
+  "originalConversation": [
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi,",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name is",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name is Swara,",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant,",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant, how",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant, how may",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "speaking"
+    },
+    {
+      "id": "dbb25427-a047-4ec0-b1ef-96e026693dcf",
+      "sender": "agent",
+      "message": "Hi, my name is Swara, your municipal assistant, how may I help you today?\n",
+      "timestamp": "2025-08-24T21:37:32.027Z",
+      "agentState": "listening"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-24T21:37:46.765Z",
+    "version": "1.0",
+    "source": "voice-assistant-app"
+  }
+}
