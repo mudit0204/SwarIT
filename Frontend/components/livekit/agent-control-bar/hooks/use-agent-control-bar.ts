@@ -26,7 +26,7 @@ export interface UseAgentControlBarProps {
 export interface UseAgentControlBarReturn {
   micTrackRef: TrackReferenceOrPlaceholder;
   visibleControls: ControlBarControls;
-  microphoneToggle: ReturnType<typeof useTrackToggle<Track.Source.Microphone>>;
+  // microphoneToggle: ReturnType<typeof useTrackToggle<Track.Source.Microphone>>;
   cameraToggle: ReturnType<typeof useTrackToggle<Track.Source.Camera>>;
   screenShareToggle: ReturnType<typeof useTrackToggle<Track.Source.ScreenShare>>;
   handleDisconnect: () => void;
