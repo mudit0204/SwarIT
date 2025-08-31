@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
+import { Send } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
-import { Send } from 'lucide-react';
 
 interface ChatInputProps extends React.HTMLAttributes<HTMLFormElement> {
   onSend?: (message: string) => void;
@@ -31,7 +31,10 @@ export function ChatInput({ onSend, className, disabled, ...props }: ChatInputPr
     <form
       {...props}
       onSubmit={handleSubmit}
-      className={cn('flex items-center gap-3 bg-slate-700/80 backdrop-blur-sm rounded-2xl p-4 border border-slate-600/50', className)}
+      className={cn(
+        'flex items-center gap-3 rounded-2xl border border-slate-600/50 bg-slate-700/80 p-4 backdrop-blur-sm',
+        className
+      )}
     >
       <input
         autoFocus
@@ -41,7 +44,7 @@ export function ChatInput({ onSend, className, disabled, ...props }: ChatInputPr
         disabled={disabled}
         placeholder="Type a message..."
         onChange={(e) => setMessage(e.target.value)}
-        className="flex-1 bg-transparent text-white placeholder-slate-400 focus:outline-none disabled:cursor-not-allowed disabled:opacity-50 text-sm"
+        className="flex-1 bg-transparent text-sm text-white placeholder-slate-400 focus:outline-none disabled:cursor-not-allowed disabled:opacity-50"
       />
       <Button
         size="sm"
@@ -49,13 +52,13 @@ export function ChatInput({ onSend, className, disabled, ...props }: ChatInputPr
         variant={isDisabled ? 'secondary' : 'primary'}
         disabled={isDisabled}
         className={cn(
-          "h-10 w-10 p-0 rounded-full transition-all duration-200 hover:scale-105 active:scale-95",
-          isDisabled 
-            ? "bg-slate-600 hover:bg-slate-500 text-slate-400" 
-            : "bg-gradient-to-r from-blue-500 to-cyan-600 hover:from-blue-600 hover:to-cyan-700 text-white shadow-lg shadow-blue-500/25"
+          'h-10 w-10 rounded-full p-0 transition-all duration-200 hover:scale-105 active:scale-95',
+          isDisabled
+            ? 'bg-slate-600 text-slate-400 hover:bg-slate-500'
+            : 'bg-gradient-to-r from-blue-500 to-cyan-600 text-white shadow-lg shadow-blue-500/25 hover:from-blue-600 hover:to-cyan-700'
         )}
       >
-        <Send className="w-4 h-4" />
+        <Send className="h-4 w-4" />
       </Button>
     </form>
   );

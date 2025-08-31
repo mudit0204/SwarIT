@@ -17,11 +17,11 @@ export const AvatarTile = ({
         trackRef={videoTrack}
         width={videoTrack?.publication.dimensions?.width ?? 0}
         height={videoTrack?.publication.dimensions?.height ?? 0}
-        className="w-full h-full object-cover"
+        className="h-full w-full object-cover"
       />
-      
+
       {/* Subtle overlay for better text readability if needed */}
-      <div className="absolute inset-0 bg-gradient-to-t from-black/10 to-transparent pointer-events-none"></div>
+      <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/10 to-transparent"></div>
     </div>
   );
 };

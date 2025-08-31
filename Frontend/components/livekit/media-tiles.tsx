@@ -124,13 +124,15 @@ export function MediaTiles({ chatOpen }: MediaTilesProps) {
     <div className="pointer-events-none fixed inset-0 z-30 overflow-hidden">
       <div className="relative h-full w-full">
         {/* Main video area - full screen when chat is closed */}
-        <div className={cn(
-          'absolute transition-all duration-500 ease-out',
-          !chatOpen 
-            ? 'inset-4 top-20 bottom-44 md:inset-8 md:top-24 md:bottom-48'
-            : 'top-24 left-6 w-40 h-48 md:top-28 md:left-8 md:w-48 md:h-56'
-        )}>
-          <div className="h-full w-full flex items-center justify-center">
+        <div
+          className={cn(
+            'absolute transition-all duration-500 ease-out',
+            !chatOpen
+              ? 'inset-4 top-20 bottom-44 md:inset-8 md:top-24 md:bottom-48'
+              : 'top-24 left-6 h-48 w-40 md:top-28 md:left-8 md:h-56 md:w-48'
+          )}
+        >
+          <div className="flex h-full w-full items-center justify-center">
             <AnimatePresence mode="popLayout">
               {!isAvatar && (
                 <MotionAgentTile
@@ -145,10 +147,10 @@ export function MediaTiles({ chatOpen }: MediaTilesProps) {
                   state={agentState}
                   audioTrack={agentAudioTrack}
                   className={cn(
-                    'w-full h-full rounded-3xl overflow-hidden shadow-2xl border-4 transition-all duration-500',
-                    agentState === 'speaking' && 'border-blue-500 shadow-blue-500/30 scale-105',
-                    agentState === 'listening' && 'border-green-500 shadow-green-500/30 scale-105',
-                    agentState === 'thinking' && 'border-yellow-500 shadow-yellow-500/30 scale-105',
+                    'h-full w-full overflow-hidden rounded-3xl border-4 shadow-2xl transition-all duration-500',
+                    agentState === 'speaking' && 'scale-105 border-blue-500 shadow-blue-500/30',
+                    agentState === 'listening' && 'scale-105 border-green-500 shadow-green-500/30',
+                    agentState === 'thinking' && 'scale-105 border-yellow-500 shadow-yellow-500/30',
                     'border-slate-600 shadow-slate-500/20'
                   )}
                 />
@@ -165,9 +167,9 @@ export function MediaTiles({ chatOpen }: MediaTilesProps) {
                   transition={avatarLayoutTransition}
                   videoTrack={agentVideoTrack}
                   className={cn(
-                    'w-full h-full rounded-3xl overflow-hidden shadow-2xl border-4 transition-all duration-500',
+                    'h-full w-full overflow-hidden rounded-3xl border-4 shadow-2xl transition-all duration-500',
                     'border-slate-600 shadow-slate-500/20',
-                    '[&>video]:w-full [&>video]:h-full [&>video]:object-cover'
+                    '[&>video]:h-full [&>video]:w-full [&>video]:object-cover'
                   )}
                 />
               )}
@@ -176,12 +178,14 @@ export function MediaTiles({ chatOpen }: MediaTilesProps) {
         </div>
 
         {/* Self-view and screen share - floating in corner */}
-        <div className={cn(
-          'absolute transition-all duration-500 ease-out z-40',
-          chatOpen 
-            ? 'top-24 right-6 md:top-28 md:right-8' 
-            : 'bottom-48 right-6 md:bottom-52 md:right-8'
-        )}>
+        <div
+          className={cn(
+            'absolute z-40 transition-all duration-500 ease-out',
+            chatOpen
+              ? 'top-24 right-6 md:top-28 md:right-8'
+              : 'right-6 bottom-48 md:right-8 md:bottom-52'
+          )}
+        >
           <div className="space-y-3">
             <AnimatePresence>
               {/* Camera view */}
@@ -196,10 +200,10 @@ export function MediaTiles({ chatOpen }: MediaTilesProps) {
                     ...animationProps.transition,
                     delay: chatOpen ? 0 : 0.15,
                   }}
-                  className="w-28 h-36 md:w-32 md:h-40 rounded-2xl overflow-hidden shadow-xl border-2 border-slate-600/50 backdrop-blur-sm"
+                  className="h-36 w-28 overflow-hidden rounded-2xl border-2 border-slate-600/50 shadow-xl backdrop-blur-sm md:h-40 md:w-32"
                 />
               )}
-              
+
               {/* Screen share */}
               {isScreenShareEnabled && (
                 <MotionVideoTile
@@ -212,7 +216,7 @@ export function MediaTiles({ chatOpen }: MediaTilesProps) {
                     ...animationProps.transition,
                     delay: chatOpen ? 0 : 0.15,
                   }}
-                  className="w-36 h-24 md:w-40 md:h-28 rounded-2xl overflow-hidden shadow-xl border-2 border-slate-600/50 backdrop-blur-sm"
+                  className="h-24 w-36 overflow-hidden rounded-2xl border-2 border-slate-600/50 shadow-xl backdrop-blur-sm md:h-28 md:w-40"
                 />
               )}
             </AnimatePresence>

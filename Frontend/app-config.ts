@@ -15,5 +15,5 @@ export const APP_CONFIG_DEFAULTS: AppConfig = {
   startButtonText: 'Start call',
 
   agentName: undefined,
-  logo: "",
+  logo: '',
 };

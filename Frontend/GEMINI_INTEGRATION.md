@@ -3,11 +3,13 @@
 ## Features Added
 
 ### 🤖 Gemini AI Analysis
+
 - **Complaint Detection**: Analyzes conversations to detect user complaints, categorize them, and suggest actions
 - **Conversation Summaries**: Generates comprehensive summaries of user-agent conversations
 - **JSON File Storage**: Automatically saves summaries to JSON files for future reference
 
 ### 📁 File Structure
+
 ```
 app/api/
 ├── analyze-conversation/route.ts  # Main Gemini analysis endpoint
@@ -21,7 +23,9 @@ public/summaries/                 # Auto-created directory for JSON files
 ```
 
 ### 🔧 Environment Variables
+
 Make sure `.env.local` contains:
+
 ```bash
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
@@ -29,6 +33,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 ### 🎯 Usage
 
 #### During a Voice Session:
+
 1. **Start a conversation** with the AI assistant
 2. **Click "Analyze Complaints"** to detect issues in the conversation
 3. **Click "Get Summary"** to generate and save a comprehensive summary
@@ -37,6 +42,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 #### API Endpoints:
 
 **POST /api/analyze-conversation**
+
 ```json
 {
   "conversations": [
@@ -55,6 +61,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 Returns list of all saved conversation summaries.
 
 ### 📊 Summary JSON Structure
+
 ```json
 {
   "timestamp": "2025-08-25T10:00:00Z",
@@ -80,6 +87,7 @@ Returns list of all saved conversation summaries.
 ```
 
 ### 🎨 UI Features
+
 - **Real-time conversation tracking** with message counting
 - **Analysis controls** in the header (desktop) and dropdown (mobile)
 - **Visual feedback** showing analysis status and file save confirmation
@@ -89,6 +97,7 @@ Returns list of all saved conversation summaries.
 ### 🔍 Console Output Examples
 
 **Complaint Analysis:**
+
 ```
 🚨 COMPLAINT ANALYSIS SUMMARY:
 1. Poor audio quality [high]
@@ -103,6 +112,7 @@ Returns list of all saved conversation summaries.
 ```
 
 **Summary Analysis:**
+
 ```
 📊 CONVERSATION SUMMARY:
 💬 Summary: User had technical issues...
@@ -115,6 +125,7 @@ Returns list of all saved conversation summaries.
 ```
 
 ### 🚀 Testing
+
 1. Start the development server: `pnpm dev`
 2. Open the application and start a voice session
 3. Have a conversation with the AI
@@ -123,6 +134,7 @@ Returns list of all saved conversation summaries.
 6. Verify JSON files are created in `public/summaries/`
 
 ### 🎯 Next Steps
+
 - Add a dedicated summaries page to view saved analyses
 - Implement summary search and filtering
 - Add export functionality for multiple summaries
