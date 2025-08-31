@@ -12,5 +12,5 @@ node server.js
 
 Step3
 cd Backend,
-./venv/Scripts/Activate.
+./venv/Scripts/Activate,
 python agent.py dev
