@@ -166,12 +166,11 @@ export const AgentTile = ({
           <Stars radius={50} depth={40} count={3000} factor={4} saturation={0} fade speed={1} />
 
           {/* Optional pulsing aura (disabled for now) */}
-          <motion.group
-            animate={{ scale: state === 'speaking' ? 1.3 : 1 }}
-            transition={{ duration: 1.2, repeat: Infinity, repeatType: "reverse" }}
+          <group
+            // You can add animation logic here if using @react-three/fiber + drei + framer-motion-3d
           >
             {/* You can add a glowing sphere aura if you want */}
-          </motion.group>
+          </group>
 
           <OrbitControls enableZoom={false} enablePan={false} autoRotate autoRotateSpeed={0.6} />
         </Canvas>
