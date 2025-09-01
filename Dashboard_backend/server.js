@@ -12,7 +12,7 @@ app.use(express.json());
 
 // MongoDB configuration
 const config = {
-  uri: "mongodb+srv://prakharpatni321:StrongPassword123@municipalcluster.tt4pe9t.mongodb.net/?retryWrites=true&w=majority&appName=MunicipalCluster",
+  uri: "mongodb+srv://nikunj:1234@cluster0.djsjf.mongodb.net/hackwave?retryWrites=true&w=majority&appName=cluster0",
   database: "municipal_ai",
   collection: "complaints",
 };

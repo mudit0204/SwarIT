@@ -311,7 +311,7 @@ ${conversationText}
     // Send raw_analysis to your backend API
     if (analysisResult.raw_analysis) {
       try {
-        await fetch('http://localhost:5000/api/summaries', {
+        await fetch('https://swarit-frontend-backend.onrender.com/api/summaries', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({

@@ -1,6 +1,6 @@
 import type { Complaint, ComplaintFilters, ComplaintStats } from '@/types/complaint';
 
-const API_BASE_URL = 'http://localhost:8000/api';
+const API_BASE_URL = 'https://swarit-dashboard.onrender.com/api';
 
 export const connectToMongoDB = async (): Promise<boolean> => {
   try {

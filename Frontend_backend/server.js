@@ -3,13 +3,18 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const summaryRoutes = require('./routes/summaryRoutes');
 
+require('dotenv').config();
+
 const app = express();
 app.use(cors());
 app.use(express.json());
 
-const MONGO_URI = process.env.MONGO_URI || "mongodb+srv://nikunj:1234@cluster0.djsjf.mongodb.net/hackwave?retryWrites=true&w=majority&appName=cluster0";
+const MONGO_URI = process.env.MONGO_URI;
+if (!MONGO_URI) {
+  throw new Error('MONGO_URI must be set in .env');
+}
 
-mongoose.connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect(MONGO_URI)
   .then(() => console.log('✅ MongoDB connected'))
   .catch(err => console.error('MongoDB connection error:', err));
 
